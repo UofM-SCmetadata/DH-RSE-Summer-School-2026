@@ -1,6 +1,30 @@
 # Digital Humanities & Research Software Engineering Summer School 2026
 ## 29 June - 2 July 2026
 
+---
+
+## Personal participation note
+
+I participated as a student in the **Digital Humanities & Research Software Engineering Summer School 2026**, held at **The University of Manchester from 29 June to 2 July 2026**.
+
+I retain this fork as a record of the programme, teaching materials, methods and practical work encountered during the Summer School, and as a reference resource for my continuing learning in **Digital Scholarship** and **Research Software Engineering**.
+
+This repository is a fork of the original [`DH-RSE-Summer-School/DH-RSE-Summer-School-2026`](https://github.com/DH-RSE-Summer-School/DH-RSE-Summer-School-2026) teaching repository. The original teaching materials remain the work of their respective authors and contributors, and all original attribution, copyright and licensing information remains applicable.
+
+Any personal notes, exercises, reflections, modifications or subsequent work that I add to this fork will be identified separately from the original Summer School materials.
+
+### Personal classification
+
+- **Primary area:** Digital Scholarship
+- **Related area:** Librarianship
+- **Type:** Summer School · Professional Development · Training
+- **Event:** Digital Humanities & Research Software Engineering Summer School 2026
+- **Location:** The University of Manchester
+- **Dates:** 29 June – 2 July 2026
+- **Status:** Completed · Retained for learning and reference
+- **Relationship:** Fork of the original teaching repository
+
+---
 ## About
 
 Welcome to the repository of the [DH & RSE Summer School 2026](https://dh-rse-summer-school.github.io/DH-RSE-Website/2026.html). Here you will 
